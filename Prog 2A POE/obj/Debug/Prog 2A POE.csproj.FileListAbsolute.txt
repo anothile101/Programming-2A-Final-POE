@@ -1,0 +1,19 @@
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\bin\Debug\Prog 2A POE.exe.config
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\bin\Debug\Prog 2A POE.exe
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\bin\Debug\Prog 2A POE.pdb
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.csproj.AssemblyReference.cache
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\MainWindow.g.cs
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\QuizWindow.g.cs
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\TaskWindow.g.cs
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\App.g.cs
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE_MarkupCompile.cache
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE_MarkupCompile.lref
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\MainWindow.baml
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\QuizWindow.baml
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\TaskWindow.baml
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.g.resources
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog_2A_POE.Properties.Resources.resources
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.csproj.GenerateResource.cache
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.csproj.CoreCompileInputs.cache
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.exe
+C:\Users\27817\source\repos\Prog 2A POE\Prog 2A POE\obj\Debug\Prog 2A POE.pdb
